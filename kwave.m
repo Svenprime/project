@@ -1,0 +1,1 @@
+builddocsearchdb(getkWavePath('helpfiles'));
