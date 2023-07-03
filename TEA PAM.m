@@ -1,4 +1,7 @@
 clearvars
+jldffjkladsfl;dnlnvl
+fdnjl;fn;qljnf;jola
+njfl;naflj
 %define the grid
 Nx = 600;%600
 Ny = 450;%450
